@@ -55,3 +55,4 @@ celerybeat-schedule
 .DS_Store
 Thumbs.db
 flowboard.iml
+/fast_cars.iml
